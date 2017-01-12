@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5E788002BA888A6E3EB549DCC06C33DC7254FCB3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5E788002BA888A6E3EB549DCC06C33DC7254FCB3" : 9223372036854775807,
+    "1A0F1B9D1669DCF848F8CE68712B9E1EB7555983" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E4980152-F023-4864-A43E-60EAB2EE2B9B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5E788002BA888A6E3EB549DCC06C33DC7254FCB3" : "hashtagit\/",
+    "1A0F1B9D1669DCF848F8CE68712B9E1EB7555983" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "hashtagit",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "hashtagit\/hashtagit.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/docmisterio\/personal.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1A0F1B9D1669DCF848F8CE68712B9E1EB7555983"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/docmisterio\/hashtagit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5E788002BA888A6E3EB549DCC06C33DC7254FCB3"
+    }
+  ]
+}
